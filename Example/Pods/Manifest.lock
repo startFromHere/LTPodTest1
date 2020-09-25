@@ -27,7 +27,7 @@ PODS:
   - FMDB (2.7.5):
     - FMDB/standard (= 2.7.5)
   - FMDB/standard (2.7.5)
-  - LTPodTest1 (0.1.0):
+  - LTPodTest1 (0.1.1):
     - AFNetworking (~> 3.1.0)
     - FMDB (~> 2.5)
     - M3U8Kit (~> 0.4.0)
@@ -66,7 +66,7 @@ SPEC CHECKSUMS:
   "Expecta+Snapshots": dcff217eef506dabd6dfdc7864ea2da321fafbb8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
-  LTPodTest1: c9129960e37af22508bd8cced9be49741c10c0bb
+  LTPodTest1: aa451f993c534a7618aac4093290877bec7dd12a
   M3U8Kit: c02e637550fbe8da9acc4b73b6392f03a773bfb9
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
   YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
