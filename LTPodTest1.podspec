@@ -39,4 +39,8 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'AFNetworking', '~> 3.1.0'
+  s.dependency 'YYKit', '~> 1.0.9'
+  s.dependency 'FMDB', '~> 2.5'
+  s.dependency 'M3U8Kit', '~> 0.4.0'
 end

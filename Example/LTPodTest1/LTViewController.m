@@ -7,6 +7,7 @@
 //
 
 #import "LTViewController.h"
+#import <LTPodTest1/ZGDownloadManager.h>
 
 @interface LTViewController ()
 
@@ -17,6 +18,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    [[ZGDownloadManager sharedManager] setAllowDownloadViaWWAN:YES];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

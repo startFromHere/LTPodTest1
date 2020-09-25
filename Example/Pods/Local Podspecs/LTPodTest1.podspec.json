@@ -1,0 +1,36 @@
+{
+  "name": "LTPodTest1",
+  "version": "0.1.0",
+  "summary": "A short description of LTPodTest1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/startFromHere/LTPodTest1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "startFromHere": "liutao80451@offcn.com"
+  },
+  "source": {
+    "git": "https://github.com/startFromHere/LTPodTest1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LTPodTest1/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 3.1.0"
+    ],
+    "YYKit": [
+      "~> 1.0.9"
+    ],
+    "FMDB": [
+      "~> 2.5"
+    ],
+    "M3U8Kit": [
+      "~> 0.4.0"
+    ]
+  }
+}

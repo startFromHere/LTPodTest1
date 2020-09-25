@@ -1,0 +1,6 @@
+framework module LTPodTest1 {
+  umbrella header "LTPodTest1-umbrella.h"
+
+  export *
+  module * { export * }
+}
